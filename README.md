@@ -9,7 +9,7 @@ A fully interactive **business intelligence dashboard** built in Power BI for **
 
 ## 🖼️ Dashboard Preview
 
-<a><img width="1282" height="718" alt="Dashboard Meaven" src="https://github.com/user-attachments/assets/c9bbe3fb-56de-4d0e-a26d-369e45ea33ea" />Dashboard</a>
+<img width="1282" height="718" alt="Dashboard Meaven" src="https://github.com/user-attachments/assets/c9bbe3fb-56de-4d0e-a26d-369e45ea33ea" />
 
 ---
 
