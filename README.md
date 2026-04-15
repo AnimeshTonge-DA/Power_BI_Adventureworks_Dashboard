@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 
-A fully interactive **business intelligence dashboard** built in Power BI for **AdventureWorks Bike Shop** — a fictional retail company. This project demonstrates end-to-end BI development: data modeling, DAX measures, and visual storytelling.
+A fully interactive **business intelligence dashboard** built in Power BI for **AdventureWorks Shop** — a fictional retail company. This project demonstrates end-to-end BI development: data modeling, DAX measures, and visual storytelling.
 
 ---
 
@@ -51,7 +51,7 @@ This project uses the **AdventureWorks** sample dataset provided by Microsoft, a
 
 - **Power BI Desktop** — report development
 - **DAX** — custom measures (YTD, MoM %, return rate)
-- **Power Query (M)** — data transformation and cleaning
+- **Power Query** — data transformation and cleaning
 - **AdventureWorks Dataset** — source data
 
 ---
@@ -105,7 +105,3 @@ adventureworks-dashboard/
 - Using conditional formatting to highlight KPI thresholds
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
