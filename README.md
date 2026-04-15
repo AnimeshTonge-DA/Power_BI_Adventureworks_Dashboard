@@ -9,7 +9,7 @@ A fully interactive **business intelligence dashboard** built in Power BI for **
 
 ## 🖼️ Dashboard Preview
 
-> *(Add your screenshot here)*
+> *("C:\Users\anime\OneDrive\Documents\Power BI Udemy Project\Dashboard Meaven.png")*
 
 ---
 
