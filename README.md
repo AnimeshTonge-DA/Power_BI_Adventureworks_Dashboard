@@ -1,7 +1,7 @@
 # 📊 AdventureWorks Sales Dashboard — Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-blue)
+
 
 A fully interactive **business intelligence dashboard** built in Power BI for **AdventureWorks Bike Shop** — a fictional retail company. This project demonstrates end-to-end BI development: data modeling, DAX measures, and visual storytelling.
 
