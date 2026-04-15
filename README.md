@@ -1,3 +1,4 @@
+
 # 📊 AdventureWorks Sales Dashboard — Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -37,13 +38,16 @@ A fully interactive **business intelligence dashboard** built in Power BI for **
 
 ## 🗂️ Dataset
 
-This project uses the **AdventureWorks** sample dataset provided by Microsoft, adapted for Power BI. It includes:
+This project uses the **AdventureWorks** sample dataset, adapted for Power BI. It includes:
 
-- Sales transactions
-- Product catalog (categories, subcategories)
-- Customer data
-- Returns data
-- Calendar/date table
+- AdventureWorks Calendar Lookup
+- AdventureWorks Customer Lookup
+- AdventureWorks Product Categories
+- AdventureWorks Product
+- AdventureWorks Subcategories
+- AdventureWorks Returns data
+- Sales transactions data
+- AdventureWorks Territory Lookup
 
 ---
 
@@ -76,24 +80,6 @@ MoM Revenue % = DIVIDE([Total Revenue] - [Last Month Revenue], [Last Month Reven
 2. Open `AdventureWorks_Dashboard.pbix` in **Power BI Desktop**
 3. Refresh the data source if prompted
 4. Interact using the date slicer and category filters
-
----
-
-## 📁 File Structure
-
-```
-adventureworks-dashboard/
-│
-├── AdventureWorks_Dashboard.pbix   # Main Power BI report file
-├── data/                           # Raw CSV source files
-│   ├── sales.csv
-│   ├── products.csv
-│   ├── customers.csv
-│   └── returns.csv
-├── screenshots/
-│   └── dashboard_preview.png
-└── README.md
-```
 
 ---
 
