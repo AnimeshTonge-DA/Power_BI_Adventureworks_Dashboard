@@ -12,7 +12,16 @@ This project demonstrates a complete BI workflow — from raw data to an interac
 The dataset simulates a retail company (AdventureWorks Shop) selling across three categories: **Bikes**, **Accessories**, and **Clothing**.
 
 ---
+```
+## 📸 Dashboard Preview
 
+![AdventureWorks Dashboard]
+<h2>Tableau</h2>
+(<img width="1916" height="1079" alt="Screenshot 2026-04-13 101742" src="https://github.com/user-attachments/assets/fc52c43f-a6c1-4a9b-9b18-a38ded1efa76" />)
+<h2>Excel</h2>
+<img width="1598" height="856" alt="Screenshot 2026-04-15 190200" src="https://github.com/user-attachments/assets/3b3fb33b-5cf4-4049-b99d-ae46ac924610" />
+
+```
 ## 🎯 Problem Statement
 
 Retail businesses often have access to large volumes of sales and operational data but lack a centralized view to monitor performance. Business stakeholders face challenges such as:
@@ -85,9 +94,6 @@ adventureworks-dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-
-![AdventureWorks Dashboard](screenshots/dashboard_preview.png)
 
 ---
 
