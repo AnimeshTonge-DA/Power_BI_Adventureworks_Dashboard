@@ -97,8 +97,8 @@ adventureworks-dashboard/
 ## 🙋‍♂️ Author
 
 Made with ❤️ by Animesh Tonge  
-Connect on [LinkedIn] [https://www.linkedin.com/in/animesh-tonge-18m01]
-[GitHub][(https://github.com/AnimeshTonge-DA)]
+Connect on [LinkedIn] [https://www.linkedin.com/in/animesh-tonge-18m01] |
+[GitHub] [(https://github.com/AnimeshTonge-DA)]
 
 ---
 
