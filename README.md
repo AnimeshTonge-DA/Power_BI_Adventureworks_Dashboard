@@ -16,12 +16,7 @@ The dataset simulates a retail company (AdventureWorks Shop) selling across thre
 ## 📸 Dashboard Preview
 
 ![AdventureWorks Dashboard]
-<h2>Tableau</h2>
-
-<img width="1916" height="1079" alt="Screenshot 2026-04-13 101742" src="https://github.com/user-attachments/assets/fc52c43f-a6c1-4a9b-9b18-a38ded1efa76" />
-<h2>Excel</h2>
-
-<img width="1598" height="856" alt="Screenshot 2026-04-15 190200" src="https://github.com/user-attachments/assets/3b3fb33b-5cf4-4049-b99d-ae46ac924610" />
+<img width="1282" height="718" alt="Dashboard Meaven" src="https://github.com/user-attachments/assets/72f9ee56-f30b-4f3e-95cf-ce5ddde7cfff" />
 
 
 ## 🎯 Problem Statement
